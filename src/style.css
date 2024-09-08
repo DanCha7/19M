@@ -1,0 +1,39 @@
+:root {
+  --color_black: rgb(49, 49, 49);
+  --greean_black: green ;
+}
+
+body {
+  line-height: 1.5;
+  font-weight: 400;
+  font-family: "Stand";
+  
+
+  color-scheme: light dark;
+  color: rgba(39, 39, 39, 0.87);
+  background-color: #ffffff;
+}
+
+.app__content {
+  text-align: center;
+  padding: 10px;
+}
+
+
+@font-face {
+  font-family: "Stand";
+  src: url("/src/components/fonts/DelaGothicOne-Regular.ttf");
+}
+
+@font-face {
+  font-family: "log";
+  src: url("src/components/fonts/Pacifico-Regular.ttf");
+}
+
+
+
+
+
+
+
+
